@@ -1,3 +1,32 @@
-.navbar a {
+nav span {
   font-family: 'Lobster', cursive;
+}
+
+.testimonials {
+ background-color: grey;
+}
+
+.hire-me {
+  background-color:  rgb(216, 198, 198);
+}
+
+.icons ul {
+  margin: 15px 0 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+.icons li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.icons a {
+  display: block;
+  padding-top: 10px;
+  font-size: 40px;
+  border-radius: 50%;
+}
+.icons a:hover {
+  transition: 0.5s;
+  transform: scale(1.2);
 }
