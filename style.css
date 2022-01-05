@@ -1,3 +1,9 @@
+body {
+  overflow-x: hidden;
+}
+
+
+
 nav span {
   font-family: 'Lobster', cursive;
 }
@@ -38,4 +44,9 @@ nav span {
 .services .col-md-6:hover {
   transition: 0.5s;
   transform: scale(1.1);
+}
+
+
+footer {
+  background-color: rgb(216, 198, 198);
 }
