@@ -10,6 +10,8 @@ nav span {
   background-color:  rgb(216, 198, 198);
 }
 
+
+
 .icons ul {
   margin: 15px 0 0;
   padding: 0;
@@ -29,4 +31,11 @@ nav span {
 .icons a:hover {
   transition: 0.5s;
   transform: scale(1.2);
+}
+
+
+
+.services .col-md-6:hover {
+  transition: 0.5s;
+  transform: scale(1.1);
 }
